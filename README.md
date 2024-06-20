@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the backend code for the Forms Desktop Application. It provides the necessary APIs and server-side functionalities required for the desktop application to function properly.
+This repository contains the backend code for the Forms Desktop Application, built using Express and TypeScript. The backend provides APIs for saving and retrieving form submissions, utilizing a JSON file as a database.
 
 ## Getting Started
 
